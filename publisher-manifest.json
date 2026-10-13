@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1e64603e5e3211627b096edf",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-ff5873a808fbd0a0d56a2967",
+  "title": "clashmi苹果",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ff5873a808fbd0a0d56a2967",
+      "a": "clashmi苹果",
+      "b": "",
+      "entity": "clashmi苹果",
+      "brand": "clashmi苹果",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1ef7dc16fc671c23d51077a0a2d2129bb4b7e27305d4f8cc14afdf20bf215136",
+      "content": {
+        "keyword1": "clashmi苹果",
+        "keyword2": "",
+        "primary_entity": "clashmi苹果",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi苹果为 iPhone、iPad 用户提供稳定的 VPN 梯子网络加速服务，支持机场订阅一键导入、多节点智能分流与流媒体解锁，本页提供 clashmi 客户端下载指引、完整配置流程与套餐价格说明。",
+          "AI_DESCRIPTION": "clashmi苹果为 iPhone、iPad 用户提供稳定的 VPN 梯子网络加速服务，支持机场订阅一键导入、多节点智能分流与流媒体解锁，本页提供 clashmi 客户端下载指引、完整配置流程与套餐价格说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{-webkit-text-size-adjust:100%}\nbody{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;background:#f4f4f8;color:#241f38;line-height:1.75;font-size:16px;overflow-x:hidden}\n.wrap{max-width:1040px;margin:0 auto;padding:0 18px}\na{color:#5b3bd6;text-decoration:none}\na:hover{text-decoration:underline}\nheader{background:#ffffff;border-bottom:1px solid #e6e2f2;position:sticky;top:0;z-index:9}\n.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding:14px 0}\n.logo{font-size:19px;font-weight:700;color:#241f38}\n.logo span{color:#6d4aff}\nnav.links{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}\nnav.links a{color:#4c4666}\n.hero{background:linear-gradient(160deg,#efecfa 0%,#f7f7fb 60%);padding:52px 0 44px;text-align:center}\n.hero h1{font-size:30px;line-height:1.35;color:#241f38;margin-bottom:14px}\n.hero h1 span{color:#6d4aff}\n.hero p{max-width:640px;margin:0 auto 22px;color:#55506e;font-size:16px}\n.btn{display:inline-block;background:#6d4aff;color:#ffffff;padding:12px 26px;border-radius:10px;font-size:16px;font-weight:600;margin:4px 6px}\n.btn:hover{background:#5a35e8;text-decoration:none}\n.btn.ghost{background:#ffffff;color:#5b3bd6;border:1px solid #c9bcf5}\nsection{padding:46px 0}\nh2{font-size:24px;color:#241f38;margin-bottom:8px;padding-left:12px;border-left:5px solid #6d4aff}\n.sub{color:#5a5474;font-size:15px;margin-bottom:24px}\n.card{background:#ffffff;border:1px solid #e6e2f2;border-radius:14px;padding:22px;margin-bottom:16px}\n.card h3{font-size:18px;color:#3a2f6b;margin-bottom:8px}\n.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}\n.intro p{color:#4c4666;margin-bottom:12px}\n.tag{display:inline-block;background:#efeafe;color:#5b3bd6;border-radius:999px;padding:3px 12px;font-size:13px;margin:0 6px 8px 0}\n.steps{list-style:none;counter-reset:st;position:relative;margin-top:8px;padding-left:0}\n.steps li{position:relative;padding:0 0 26px 74px;counter-increment:st}\n.steps li::before{content:counter(st);position:absolute;left:14px;top:0;width:44px;height:44px;border-radius:50%;background:#6d4aff;color:#fff;font-weight:700;font-size:19px;display:flex;align-items:center;justify-content:center}\n.steps li::after{content:'';position:absolute;left:35px;top:48px;bottom:4px;width:2px;background:#d9d0f7}\n.steps li:last-child::after{display:none}\n.steps h3{font-size:18px;color:#3a2f6b;margin-bottom:6px;padding-top:8px}\n.steps p{color:#4c4666;font-size:15px}\n.steps .note{display:inline-block;background:#f1edff;border-radius:8px;padding:6px 12px;font-size:14px;color:#4b3aa0;margin-top:6px}\n.stepsbox{background:#ffffff;border:2px solid #c9bcf5;border-radius:16px;padding:28px 22px}\n.dl{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}\n.dl .card{text-align:center;margin-bottom:0}\n.dl a{display:inline-block;margin-top:10px;font-weight:600}\n.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;align-items:stretch}\n.plan{background:#ffffff;border:1px solid #e6e2f2;border-radius:14px;padding:24px 20px;display:flex;flex-direction:column}\n.plan h3{font-size:19px;color:#3a2f6b;margin-bottom:6px}\n.plan .price{font-size:26px;font-weight:700;color:#241f38;margin-bottom:2px}\n.plan .annual{font-size:14px;color:#7a6f4d;color:#6f6890;margin-bottom:14px}\n.plan ul{list-style:none;margin-bottom:16px;flex:1}\n.plan li{padding:7px 0;border-bottom:1px dashed #ece8f8;font-size:15px;color:#4c4666}\n.plan li::before{content:'✓ ';color:#6d4aff;font-weight:700}\n.plan.hot{border:2px solid #6d4aff;box-shadow:0 10px 26px rgba(109,74,255,.14);position:relative}\n.plan.hot .badge{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:#6d4aff;color:#fff;font-size:13px;border-radius:999px;padding:3px 14px;white-space:nowrap}\n.plan .buy{background:#6d4aff;color:#fff;text-align:center;border-radius:9px;padding:10px 0;font-weight:600}\n.plan .buy:hover{background:#5a35e8;text-decoration:none}\n.adbar{background:#efeafe;border:1px dashed #b9a6f2;border-radius:12px;padding:14px 18px;font-size:15px;color:#4b3aa0;margin-bottom:20px}\ndetails{background:#ffffff;border:1px solid #e6e2f2;border-radius:12px;padding:16px 18px;margin-bottom:12px}\nsummary{font-weight:600;font-size:16px;color:#3a2f6b;cursor:pointer}\ndetails p{margin-top:10px;color:#4c4666;font-size:15px}\nfooter{background:#241f38;color:#b8b2d4;padding:34px 0 26px;font-size:14px;margin-top:20px}\nfooter h2{color:#ffffff;border-color:#6d4aff;font-size:18px;margin-bottom:12px}\nfooter .fl a{color:#cfc7ee;margin-right:18px;display:inline-block;margin-bottom:8px}\n.copy{text-align:center;margin-top:20px;color:#8d86ad;font-size:13px}\n@media(max-width:760px){\n.hero h1{font-size:24px}\n.grid2,.dl,.plans{grid-template-columns:1fr}\n.steps li{padding-left:62px}\n.steps li::before{left:8px;width:38px;height:38px;font-size:16px}\n.steps li::after{left:26px}\nh2{font-size:21px}\n}\n</style>\n\n\n<header>\n  <div class=\"wrap nav\">\n    <div class=\"logo\">clashmi<span>苹果</span></div>\n    <nav class=\"links\">\n      <a href=\"#intro\">品牌简介</a>\n      <a href=\"#scenarios\">使用场景</a>\n      <a href=\"#steps\">配置流程</a>\n      <a href=\"#download\">客户端下载</a>\n      <a href=\"#plans\">套餐价格</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n</header>\n<main>\n  <section class=\"hero\">\n    <div class=\"wrap\">\n      <h1>clashmi苹果：iOS 端 <span>VPN 梯子网络加速器</span>客户端下载与机场订阅配置</h1>\n      <p>为 iPhone 与 iPad 打造的稳定网络加速服务，支持机场订阅一键导入、多节点智能分流与流媒体解锁，五步即可完成 clashmi 客户端配置，畅享低延迟全球网络。</p>\n      <a class=\"btn\" href=\"#download\">获取客户端下载</a>\n      <a class=\"btn ghost\" href=\"#steps\">查看配置流程</a>\n    </div>\n  </section>\n\n  <section id=\"intro\" class=\"intro\">\n    <div class=\"wrap\">\n      <h2>品牌简介</h2>\n      <p class=\"sub\">了解 clashmi苹果 能为你的苹果设备带来什么</p>\n      <div class=\"card\">\n        <p>clashmi苹果 是面向苹果生态的网络加速服务，围绕 clashmi 客户端与机场订阅体系构建，覆盖 iPhone、iPad 及 Mac 等设备。我们持续维护多地区高速节点池，通过智能分流规则让国内应用直连、海外流量加速，兼顾速度与流量成本。</p>\n        <p>无论你是想解锁海外流媒体、降低游戏延迟，还是保障跨境办公与学术访问的稳定性，clashmi苹果 都提供开箱即用的订阅配置与可视化客户端，无需手动改写复杂规则文件。</p>\n        <p>\n          <span class=\"tag\">机场订阅一键导入</span>\n          <span class=\"tag\">多设备同时在线</span>\n          <span class=\"tag\">智能分流规则</span>\n          <span class=\"tag\">流媒体解锁</span>\n          <span class=\"tag\">IPLC 专线优化</span>\n        </p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"scenarios\">\n    <div class=\"wrap\">\n      <h2>使用场景</h2>\n      <p class=\"sub\">不同需求都能找到对应的加速方案</p>\n      <div class=\"grid2\">\n        <div class=\"card\">\n          <h3>海外流媒体观影</h3>\n          <p>旗舰版与团队版节点支持主流流媒体原生解锁，4K 观影不缓冲，追剧、看公开课两不误。</p>\n        </div>\n        <div class=\"card\">\n          <h3>游戏低延迟加速</h3>\n          <p>IPLC 专线对国际服手游与主机联机进行链路优化，降低丢包与跳 ping，操作更跟手。</p>\n        </div>\n        <div class=\"card\">\n          <h3>跨境办公与开发</h3>\n          <p>稳定访问海外代码仓库、协作平台与云服务，订阅链接可在多设备间同步，团队协作不掉线。</p>\n        </div>\n        <div class=\"card\">\n          <h3>日常安全上网</h3>\n          <p>公共 Wi-Fi 环境下加密传输流量，配合分流规则保持国内应用直连，速度快且省流量。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"steps\">\n    <div class=\"wrap\">\n      <h2>配置流程：五步完成 clashmi苹果 加速设置</h2>\n      <p class=\"sub\">以配置流程为核心设计的上手路径，全程约五分钟</p>\n      <div class=\"stepsbox\">\n        <ol class=\"steps\">\n          <li>\n            <h3>下载 clashmi 苹果客户端</h3>\n            <p>前往客户端下载专区，根据设备选择 App Store、TestFlight 或描述文件安装方式，完成 clashmi 应用安装。</p>\n            <span class=\"note\">建议先阅读对应安装方式的系统版本要求</span>\n          </li>\n          <li>\n            <h3>注册账号并选择套餐</h3>\n            <p>创建 clashmi苹果 账号，按设备数量与流量需求选择基础版、旗舰版或团队版，支付成功后控制台即时生效。</p>\n            <span class=\"note\">年付方案享受约两个月减免优惠</span>\n          </li>\n          <li>\n            <h3>复制机场订阅链接</h3>\n            <p>在用户中心打开「订阅管理」，一键复制专属机场订阅链接。链接与账号绑定，请勿泄露给他人。</p>\n            <span class=\"note\">支持随时重置订阅链接以保护账号安全</span>\n          </li>\n          <li>\n            <h3>导入订阅到客户端</h3>\n            <p>打开 clashmi 客户端，选择「从剪贴板导入」或粘贴订阅链接，应用会自动拉取节点列表与分流规则，无需手动编辑配置文件。</p>\n            <span class=\"note\">开启「自动更新订阅」可每日同步最新节点</span>\n          </li>\n          <li>\n            <h3>选择节点并一键连接</h3>\n            <p>在节点列表中点击「延迟测速」，优选低延迟线路后开启连接开关，状态栏出现 VPN 图标即代表加速生效。</p>\n            <span class=\"note\">可按流媒体、游戏等场景切换专用策略组</span>\n          </li>\n        </ol>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"download\">\n    <div class=\"wrap\">\n      <h2>客户端下载</h2>\n      <p class=\"sub\">选择与你设备匹配的 clashmi 苹果客户端安装方式</p>\n      <div class=\"dl\">\n        <div class=\"card\">\n          <h3>App Store 版</h3>\n          <p>适合 iOS 15 及以上系统，直接在应用商店搜索安装，更新由官方渠道推送，稳定性最佳。</p>\n          <a href=\"#\">前往 App Store 安装</a>\n        </div>\n        <div class=\"card\">\n          <h3>TestFlight 版</h3>\n          <p>适合希望抢先体验新功能的用户，通过测试邀请链接安装，与正式版数据互通。</p>\n          <a href=\"#\">获取 TestFlight 邀请</a>\n        </div>\n        <div class=\"card\">\n          <h3>macOS 版</h3>\n          <p>适配 Apple Silicon 与 Intel 芯片的 Mac 客户端，订阅链接与 iOS 端通用，多端无缝切换。</p>\n          <a href=\"#\">下载 macOS 客户端</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <div class=\"wrap\">\n      <h2>套餐价格</h2>\n      <p class=\"sub\">按设备数与流量需求选择，全部套餐均支持机场订阅一键导入</p>\n      <div class=\"adbar\">限时活动：本季度年付用户可免费解锁一次线路优先级升级，詳情见用户中心公告。</div>\n      <div class=\"plans\">\n        <div class=\"plan\">\n          <h3>基础版</h3>\n          <p class=\"price\">¥15/月</p>\n          <p class=\"annual\">按年付仅需 ¥150/年</p>\n          <ul>\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n          <a class=\"buy\" href=\"#\">选择基础版</a>\n        </div>\n        <div class=\"plan hot\">\n          <span class=\"badge\">最受欢迎</span>\n          <h3>旗舰版</h3>\n          <p class=\"price\">¥35/月</p>\n          <p class=\"annual\">按年付仅需 ¥350/年</p>\n          <ul>\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n          <a class=\"buy\" href=\"#\">选择旗舰版</a>\n        </div>\n        <div class=\"plan\">\n          <h3>团队版</h3>\n          <p class=\"price\">¥85/月</p>\n          <p class=\"annual\">按年付仅需 ¥850/年</p>\n          <ul>\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n          <a class=\"buy\" href=\"#\">选择团队版</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"wrap\">\n      <h2>常见问题</h2>\n      <p class=\"sub\">关于 clashmi苹果 客户端下载、订阅与使用的高频疑问</p>\n      <details>\n        <summary>clashmi苹果 支持哪些苹果设备？</summary>\n        <p>客户端支持 iPhone、iPad（iOS 15 及以上）以及运行 macOS 12 及以上的 Mac 电脑。同一订阅链接可在多台设备导入，具体同时在线数量由你所选套餐决定。</p>\n      </details>\n      <details>\n        <summary>订阅链接导入客户端失败怎么办？</summary>\n        <p>请先确认复制的链接完整且未包含多余空格，随后在客户端内检查网络能否访问订阅地址。若仍失败，可在用户中心重置订阅链接后重新导入；重置不会影响已购套餐的流量与有效期。</p>\n      </details>\n      <details>\n        <summary>每月流量什么时候重置？可以叠加吗？</summary>\n        <p>流量以自然月为周期，在每月 1 日 0 点自动重置，未用完的流量不结转到次月。如需更大额度，可升级套餐或购买加油包，升级当月按剩余天数差价补足。</p>\n      </details>\n      <details>\n        <summary>连接后网速不理想如何优化？</summary>\n        <p>建议先在节点列表执行延迟测速，切换到延迟更低的线路；其次在客户端设置中开启智能分流，让国内流量直连。若持续异常，可通过工单提交测速截图，旗舰版与团队版用户享有优先处理通道。</p>\n      </details>\n      <details>\n        <summary>可以先试用再决定购买套餐吗？</summary>\n        <p>可以。新注册用户可在用户中心领取限时体验流量，体验线路与基础版节点池一致，便于在正式购买前验证本地网络环境下的实际速度与稳定性。</p>\n      </details>\n      <details>\n        <summary>能否随时更换或取消套餐？</summary>\n        <p>套餐支持随时升降级，升级立即生效并补差价，降级将在当前计费周期结束后生效。年付方案在购买后 7 天内如未大量消耗流量，可联系客服申请按比例退款。</p>\n      </details>\n    </div>\n  </section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n  <div class=\"wrap\">\n    <h2>友情链接与资源</h2>\n    <div class=\"fl\">\n      <a href=\"#\">网络加速入门指南</a>\n      <a href=\"#\">机场订阅转换工具</a>\n      <a href=\"#\">iOS 描述文件安装教程</a>\n      <a href=\"#\">分流规则社区</a>\n      <a href=\"#\">服务状态页</a>\n    </div>\n    <p class=\"copy\">clashmi苹果 · 专注 iOS 端 VPN 梯子网络加速与机场订阅服务。请遵守当地法律法规合理使用网络工具。</p>\n  </div>\n</footer>\n\n",
+          "hash": "c8d81cbdf1450346b5a27e8c6e3a62964bf0154d8b89ac1541e72a1158b58612",
+          "seo": {
+            "title": "clashmi苹果官网下载 | iOS VPN 梯子加速器客户端订阅配置教程",
+            "keywords": "clashmi苹果,clashmi 官网下载,iOS VPN,梯子,网络加速,加速器,机场订阅,客户端下载,苹果加速器,流媒体解锁",
+            "description": "clashmi苹果为 iPhone、iPad 用户提供稳定的 VPN 梯子网络加速服务，支持机场订阅一键导入、多节点智能分流与流媒体解锁，本页提供 clashmi 客户端下载指引、完整配置流程与套餐价格说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vszsa.cn",
+    "host": "p-63a10b1ef2.vszsa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "58617a62293c30b856cceeabdc230cbd42d2b1ad853ab1e9c70c90c73b41153b",
+    "sitemap.xml": "0c1c1ab634092d37bef0b88ccd1f26ca51ec554457f2bc6b1a3e82706018e894",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "797cd934caa0f1c53d26228948e4f87d456dbef5270793eb84a3166ca501994d",
+    "robots.txt": "57ed7744aa4d785d1c3d73449dee67e96bbc0fac1d4e5827c059ae003358d329",
+    "08efdeb212c8dee8b02227bfea8c6dea.txt": "423c6cea570d4832df0e0489472073057170cfc77fb8027a396b2bfc0c427ec8"
+  },
+  "revision": "e7ea0d1abec62def3e622f59616f0665352afa3f6c8fd03542ed105c0f5d4e54"
+}
